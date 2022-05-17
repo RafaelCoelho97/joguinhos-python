@@ -4,3 +4,9 @@ pera
 uva
 goiaba
 abacaxi
+abacate
+mamao
+morango
+lichia
+acerola
+pitaya
